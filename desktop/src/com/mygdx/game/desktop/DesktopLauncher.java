@@ -10,3 +10,9 @@ public class DesktopLauncher {
 		new LwjglApplication(new MyGdxGame(), config);
 	}
 }
+
+
+// commit guardar cambios
+// push mandar nuevo codigo
+// pull sacar un proyecto existente
+// merge combinar branches
